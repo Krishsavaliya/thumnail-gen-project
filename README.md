@@ -108,9 +108,8 @@ npm run dev
 👨‍💻 Author
 
 Krish Savaliya
-GitHub: https://github.com/Krishsavaliya
 
-got to learn a lot from this project ,thank you [GreatStackDev YouTube channel](https://www.youtube.com/@GreatStackDev)
+got to learn a lot from this project ,thank you GreatStackDev
 
 ⭐ Show Your Support
 
