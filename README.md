@@ -40,7 +40,10 @@ ThumbnailGen is a full-stack AI-powered web application that allows users to gen
 - Cloudinary
 - Session-based Authentication
 
+```
+
 ---
+
 
 ## 📂 Project Structure
 
@@ -63,8 +66,10 @@ thumnail-gen-project/
 │
 └── README.md
 
-
 ---
+
+```
+
 
 ## ⚙️ Environment Variables
 
@@ -104,12 +109,12 @@ Start frontend
 cd client-frontend
 npm run dev
 
-
+```
 👨‍💻 Author
 
 Krish Savaliya
 
-got to learn a lot from this project ,thank you GreatStackDev
+got to learn a lot from this project , thank you [GreatStackDev](https://www.youtube.com/@GreatStackDev)
 
 ⭐ Show Your Support
 
